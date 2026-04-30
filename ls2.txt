@@ -1,0 +1,9 @@
+LICENSE
+README.md
+ls1.txt
+ls2.txt
+new.txt
+test.txt
+work1.txt
+work2.txt
+work3.txt
